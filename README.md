@@ -1,2 +1,2 @@
 # Sieve-of-Eratosthenes
-This project demonstrates my knowledge on the Sieve of Eratosthenes algorithm.
+This project demonstrates the Sieve of Eratosthenes algorithm.
